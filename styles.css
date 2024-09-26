@@ -1,6 +1,14 @@
-.button { 
+button { 
     width: 70px;
     height: 70px;
-    margin: 35px;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 3px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 150%;
+    border-color: lightgray;
+}
+input { 
+    width: 23%;
+    height: 50px;
+    background-color: lightgray;
+    border-color: gray;
 }
